@@ -92,7 +92,7 @@ out
 
 # Gatsby
 .cache/
-public
+
 
 # Storybook build outputs
 .out
